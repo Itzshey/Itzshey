@@ -8,17 +8,17 @@
 
 ### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 17 px /> [_My LinkendIn._](https://www.linkedin.com/in/sofia-helene-32400523a/)
 
-### _⁺* Fluent in: ENG/pt-BR ⁺*_
+### _⁺ Fluent in: ENG/pt-BR ⁺_
 
 ----------------
 
-# ⋅⁺˚*_Technologies I Use_ ⋅⁺˚*
+# ⁺˚ _Technologies I Use_ ⁺˚
 
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width= 100px />
 
 ----------------
 
-# ⋅⁺˚*_Courses I've Taken_ ⋅⁺˚*
+# ⁺˚ _Courses I've Taken_ ⁺˚
 
 | Course | 	Certificate |
 |---------| ------------| 
