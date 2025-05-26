@@ -1,14 +1,14 @@
 # ⋅⁺˚*_Welcome to my profile!_ ⁺˚*⋅
 
-#### ⁺ _Hi there! I am a young develper looking for an opportunity to learn more and more about tech!_
+### ⁺ _Hi there! I am a young develper looking for an opportunity to learn more and more about tech!_
 
-#### ⁺ _I am a first year Software Enginer student with a passion for game development._
+### ⁺ _I am a first year Software Enginer student with a passion for game development._
 
-#### ⁺ _Currently studying C# and .NET._ 
+### ⁺ _Currently studying C# and .NET._ 
 
-#### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 17 px /> [_My LinkendIn._](https://www.linkedin.com/in/sofia-helene-32400523a/)
+### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 17 px /> [_My LinkendIn._](https://www.linkedin.com/in/sofia-helene-32400523a/)
 
-#### _⁺* Fluent in: ENG/pt-BR ⁺*_
+### _⁺* Fluent in: ENG/pt-BR ⁺*_
 
 ----------------
 
