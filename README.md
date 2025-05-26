@@ -1,16 +1,20 @@
-## Hi there 👋
+#  ⁺˚*•̩̩͙✩•̩̩͙ _Welcome to my profile!_ ⁺˚*•̩̩͙✩•̩̩͙
+### ✩ _Hi there! I am a young develper looking for an opportunity to learn more and more about tech!_
 
-<!--
-**Itzshey/Itzshey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✩ _I am a first year Software Enginer student with a passion for game development._
 
-Here are some ideas to get you started:
+### ✩ _Currently studying C# and .NET._ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✩ [_My LinkendIn._](https://www.linkedin.com/in/sofia-helene-32400523a/)
+
+### _⁺˚* Fluent in: ENG/pt-BR⁺˚*_
+
+----------------
+
+ 
+![Gato dev](https://usagif.com/wp-content/uploads/cat-typing-7.gif)
+
+
+----------------
+
+
