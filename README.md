@@ -1,8 +1,8 @@
 # ⋅⁺˚*_Welcome to my profile!_ ⁺˚*⋅
 
-### ⁺ _Hi there! I am a young develper looking for an opportunity to learn more and more about tech!_
+### ⁺ _Hi there! I’m a young developer eager to keep learning more and more about tech!_
 
-### ⁺ _I am a first year Software Enginer student with a passion for game development._
+### ⁺ _I'm a first-year Software Engineering student with a passion for game development._
 
 ### ⁺ _Currently studying C# and .NET._ 
 
@@ -12,15 +12,15 @@
 
 ----------------
 
-# ⋅⁺˚*_Minhas Tecnologias_ ⋅⁺˚*
+# ⋅⁺˚*_Technologies I Use_ ⋅⁺˚*
 
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width= 100px> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width= 100px />
 
 ----------------
 
-# ⋅⁺˚*_Meus Cursos_ ⋅⁺˚*
+# ⋅⁺˚*_Courses I've Taken_ ⋅⁺˚*
 
-| Curso| Certificado |
+| Course | 	Certificate |
 |---------| ------------| 
 | Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/B18N9UK0.pdf)
 
