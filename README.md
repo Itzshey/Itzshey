@@ -6,7 +6,7 @@
 
 ### ⁺ _Currently studying C# and .NET._ 
 
-### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="17px" /> [_My LinkedIn_](https://www.linkedin.com/in/sofia-helene-32400523a/)
+### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="17px" /> [_My LinkedIn!_](https://www.linkedin.com/in/sofia-helene-32400523a/)
 
 ### ⁺ _Fluent in: English / Portuguese (BR)_
 
