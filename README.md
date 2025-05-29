@@ -29,11 +29,12 @@
 # ⁺˚ _📊 GitHub Stats_ ⁺˚
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzshey&show_icons=true&theme=tokyonight&hide_border=false&locale=en)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzshey&show_icons=true&theme=tokyonight&hide_border=false&locale=en&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzshey&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzshey&layout=compact&theme=tokyonight&cache_seconds=60)
 
-</div>
+
+
 
 ---
 
