@@ -23,6 +23,8 @@
 | Course                 | Certificate        |
 |------------------------|--------------------|
 | Programming Logic      | [Certificate](https://hermes.dio.me/certificates/B18N9UK0.pdf) |
+|------------------------|--------------------|
+| Git and GitHub         | [Certificate](https://hermes.dio.me/certificates/UXBJ0QBL.pdf) |
 
 ---
 
