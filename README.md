@@ -2,9 +2,9 @@
 
 ### ⁺ _Hi there! I’m a young developer eager to keep learning more and more about tech!_
 
-### ⁺ _I'm a first-year Software Engineering student with a passion for game development._
+### ⁺ _I'm a second-year Software Engineering student with a passion for game development._
 
-### ⁺ _Currently studying C# and .NET._ 
+### ⁺ _Currently studying web development - HTML5, CSS3 and JavaScript._ 
 
 ### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="17px" /> [_My LinkedIn!_](https://www.linkedin.com/in/sofia-helene-32400523a/)
 
