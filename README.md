@@ -12,7 +12,7 @@
 
 ---
 
-# ⁺˚ _Technologies I Use_ ⁺˚
+# ⁺˚ _My skills_ ⁺˚
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="100px" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="100px" />
 
