@@ -6,6 +6,8 @@
 
 ### ⁺ _Currently studying web development - HTML5, CSS3 and JavaScript._ 
 
+### ⁺ _Checkout my most recent project! <a href="https://github.com/Itzshey/game-explorer">Game Explorer! </a>._ 
+
 ### ⁺ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="17px" /> [_My LinkedIn!_](https://www.linkedin.com/in/sofia-helene-32400523a/)
 
 ### ⁺ _Fluent in: English / Portuguese (BR)_
